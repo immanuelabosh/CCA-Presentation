@@ -15,11 +15,11 @@ New technology →  Opportunity →  Shift in industry
 
 ---
 
-1. ## Manufacturing
+## Manufacturing
 
-2. ## Delivery Logistics
+## Delivery Logistics
 
-3. ## Sales
+## Sales
 
 ---
 
